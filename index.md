@@ -1,4 +1,3 @@
-## 
 
 <ul class="posts" style="list-style: none" data-lift="blog.posts?max=15">
     <li data-post="item"><h2><a data-post="link" href="#">Blog Post</a></h2>
