@@ -11,4 +11,3 @@ date: 2012-08-04
 
  
 An information board at Loxwood on the Wey - Arun canal
-    
