@@ -1,4 +1,4 @@
-## Skitters 
+## My name is Skitters and I am a dog 
 
 I am a 5 year old (ish) lady Jack Russell terrier X, 
 reholmed from Shoreham [Dogs Trust](http://www.dogstrust.org.uk/) 
