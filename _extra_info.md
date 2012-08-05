@@ -1,6 +1,6 @@
 ---
-blog_root: /blog_posts
-site_title: My Blog
+blog_root: /blog
+site_title: SKITTERS
 
 ---
 

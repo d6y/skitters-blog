@@ -1,10 +1,14 @@
-## About 
+## Skitters 
 
-I blog here.  This is a page that tells people about me.
+I am a 5 year old (ish) lady Jack Russell terrier X, 
+reholmed from Shoreham [Dogs Trust](http://www.dogstrust.org.uk/) 
+in March 2009 and now living a happy and active life
+in Brighton.
 
-## Contact Me
+For Christmas 2009 my humans were given a "Pet's eve view camera", which they
+let me use to take photos on some of my walks.
 
-You can put some contact information here
+My hobbies include chasing woodland animals, eating, sleeping and sniffing.
 
 [title: About]: /
 [order: 20]: /
