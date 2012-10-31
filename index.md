@@ -1,4 +1,3 @@
-
 <ul class="posts" style="list-style: none" data-lift="blog.posts?max=15">
     <li data-post="item"><h2><a data-post="link" href="#">Blog Post</a></h2>
         <h4 style="padding-left: 8px;"><span data-post="date">2012/12/14</span></h4>
@@ -7,6 +6,8 @@
         <hr>
     </li>
 </ul>
+
+<span data-lift="disqus.count?shortname=skitters"></span>
 
 You can find older posts in the <a href="/archive">archive</a>.
 
