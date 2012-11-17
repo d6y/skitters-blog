@@ -4,10 +4,10 @@ author: Richard Dallaway
 date: 2012-10-24
 
 <div>
-        <a href="/media/YCphoto.JPG">
-          <img width="374" src="/media/YCphoto.JPG.500.JPG" height="500"></img>
-        </a>
-      </div>
+<a href="/media/YCphoto.JPG">
+<img width="374" src="/media/YCphoto.JPG.500.JPG" height="500"></img>
+</a>
+</div>
 
 
 
