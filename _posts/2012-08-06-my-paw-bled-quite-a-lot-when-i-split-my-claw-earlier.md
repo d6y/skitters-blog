@@ -4,10 +4,10 @@ author: Jane Dallaway
 date: 2012-08-06
 
 <div>
-				<a href="/media/Nphoto.JPG">
-					<img width="500" src="/media/Nphoto.JPG.500.JPG" height="374"></img>
-			  </a>
-			</div>
+<a href="/media/Nphoto.JPG">
+<img width="500" src="/media/Nphoto.JPG.500.JPG" height="374"></img>
+</a>
+</div>
 
 
   
