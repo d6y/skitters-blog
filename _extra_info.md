@@ -1,6 +1,8 @@
 ---
 blog_root: /blog
 site_title: SKITTERS
+site_link: http://skitters.dallaway.com
+
 
 ---
 
