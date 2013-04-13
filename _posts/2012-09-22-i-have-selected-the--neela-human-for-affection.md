@@ -4,14 +4,7 @@ author: Richard Dallaway
 date: 2012-09-22
 
 <div>
-				<a href="/media/Iphoto.JPG">
-					<img width="374" src="/media/Iphoto.JPG.500.JPG" height="500"></img>
-			  </a>
-			</div>
-
-
-
-  
-
-
-    
+<a href="/media/Iphoto.JPG">
+<img width="374" src="/media/Iphoto.JPG.500.JPG" height="500"></img>
+</a>
+</div>
