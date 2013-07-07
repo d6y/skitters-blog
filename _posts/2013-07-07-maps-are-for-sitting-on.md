@@ -1,5 +1,5 @@
 
-title: Mpars are for sitting on
+title: Maps are for sitting on
 author: Richard Dallaway
 date: 2013-07-07
 
