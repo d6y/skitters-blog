@@ -1,7 +1,11 @@
-
-title: Early Sept run-around at low tide
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Early Sept run-around at low tide'
 author: Richard Dallaway
 date: 2012-09-04
+---
 
 <div>
 <a href="/media/photo 1.JPG">

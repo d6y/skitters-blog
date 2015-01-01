@@ -1,1 +1,5 @@
 .picasa.ini
+_site
+.sass-cache
+*.sh
+s3

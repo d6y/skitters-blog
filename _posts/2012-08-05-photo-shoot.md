@@ -1,7 +1,11 @@
-
-title: Photo shoot
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Photo shoot'
 author: Richard Dallaway
 date: 2012-08-05
+---
 
 <div>
 	<a href="/media/Vphoto.JPG">

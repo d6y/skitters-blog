@@ -1,7 +1,11 @@
-
-title: Low tide in Ferring
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Low tide in Ferring'
 author: Richard Dallaway
 date: 2012-10-06
+---
 
 <div>
 <a href="/media/Fphoto.JPG">

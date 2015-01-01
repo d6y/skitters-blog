@@ -1,7 +1,11 @@
-
-title: Paying my respects to Ganesh
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Paying my respects to Ganesh'
 author: Jane Dallaway
 date: 2012-09-30
+---
 
 <div>
 <a href="/media/YRphoto.JPG">

@@ -1,7 +1,11 @@
-
-title: Falling asleep in the male human's arms
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Falling asleep in the male human&#39;s arms'
 author: Jane Dallaway
 date: 2012-10-27
+---
 
 <div>
 <a href="/media/Lphoto.JPG">

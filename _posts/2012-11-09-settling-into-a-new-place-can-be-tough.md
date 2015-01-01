@@ -1,7 +1,11 @@
-
-title: Settling into a new place can be tough...
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Settling into a new place can be tough...'
 author: Jane Dallaway
 date: 2012-11-09
+---
 
 <div>
 <a href="/media/AGphoto.JPG">

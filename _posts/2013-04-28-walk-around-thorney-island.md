@@ -1,6 +1,11 @@
-title: Walk around Thorney Island
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Walk around Thorney Island'
 author: Richard Dallaway
 date: 2013-04-28
+---
 
 Photos from [a walk around Thorney Island](http://www.sports-tracker.com/#/workout/RichardDallaway/fuk49gp8sb6sbm5j):
 

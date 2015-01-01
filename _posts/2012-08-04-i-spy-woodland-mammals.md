@@ -1,7 +1,11 @@
-
-title: I spy woodland mammals
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'I spy woodland mammals'
 author: Jane Dallaway
 date: 2012-08-04
+---
 
 <div>
 <a href="/media/photo.JPG">

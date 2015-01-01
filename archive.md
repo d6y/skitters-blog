@@ -1,23 +1,22 @@
-title: Archive 
-order: 30
-show-if: has_blog
+---
+layout: page
+title: Archive
+permalink: /archive/
+---
 
-<div class="page-header">
-	<h1>Blog Archive</h1>
+<div class="archive">
+	<ul class="post-list">
+	{% for post in site.posts %}
+	  {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+	  {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+	    {% if month != nmonth %}
+	      {% if forloop.index != 1 %}</ul>{% endif %}
+	      <h3 class="sub-header">{{ post.date | date: '%B %Y' }}</h3><ul>
+	    {% endif %}
+	  <li><span class="time">{{ post.date | date: "%B %-d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+
+  </ul>
+
 </div>
 
-<div data-lift="archived_posts">
-	<div name="year-block">
-		<h2 name="year">1999</h2>
-		<div name="month-block">
-			<h3 name="month">Febtember</h3>
-			<ul>
-				<li name="post-block">
-				<span name="post-date">sometime</span>
-				»
-				<a name="post-title" href="#">Something fun</a>
-				</li>
-			</ul>
-	    </div>
-	</div>
-</div>

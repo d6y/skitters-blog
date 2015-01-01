@@ -1,7 +1,11 @@
-
-title: In the park with Pebbles
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'In the park with Pebbles'
 author: Richard Dallaway
 date: 2013-10-30 11:42
+---
 
 <div><a href="/media/tp_IMG_20131030_114044.JPG"><img src="/media/tp_thumb_IMG_20131030_114044.JPG" width="500" height="375"/></a></div>
 

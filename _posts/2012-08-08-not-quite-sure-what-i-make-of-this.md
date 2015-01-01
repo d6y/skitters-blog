@@ -1,7 +1,11 @@
-
-title: Not quite sure what I make of this...
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Not quite sure what I make of this...'
 author: Jane Dallaway
 date: 2012-08-08
+---
 
 <div>
 <a href="/media/ZVphoto.JPG">

@@ -1,7 +1,11 @@
-
-title: Hanging around near the drinking water tap in Hove
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Hanging around near the drinking water tap in Hove'
 author: Richard Dallaway
 date: 2012-10-17
+---
 
 <div>
 <a href="/media/2012-10-12 07.59.49.jpg">

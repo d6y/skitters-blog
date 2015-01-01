@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+      <li>
+        <span class="post-meta">{{ post.date |  date: "%-d %B %Y"  }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p>You can find older posts in the <a href="archive">archive</a>.</p>
+
+  <p class="rss-subscribe">Subscribe <a href="{{ "/rss.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

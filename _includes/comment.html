@@ -1,0 +1,27 @@
+{% if page.comments %}
+<!-- Add Disqus comments. -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+	var disqus_shortname = "skitters";
+
+  // Telegr.am URLs do not end in a /, but Jekyll ones do.
+  // This difference means Disqus would not show comments on a post (they're different pages).
+  // We fix this by telling Disqus what the URL is, and we say it is without the trailing /
+  // https://help.disqus.com/customer/portal/articles/472098-javascript-configuration-variables
+  var url_last_char_index = window.location.href.length - 1;
+  var last_char_of_url = window.location.href.charAt(url_last_char_index);
+  var disqus_url = last_char_of_url == '/' ? window.location.href.substring(0, url_last_char_index) : window.location.href;
+
+  // For local testing and S3 hosting we adjust the hostname too:
+  disqus_url = disqus_url.replace("http://127.0.0.1:4000", "http://skitters.dallaway.com");
+  disqus_url = disqus_url.replace("http://skitters.dallaway.com.s3-website-eu-west-1.amazonaws.com", "http://skitters.dallaway.com");
+
+	(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+{% endif %}

@@ -1,6 +1,11 @@
-title: Sitting amongst the leaves at Withdean Park
+---
+layout: post
+comments: true
+permalink: /blog/:title
+title: 'Sitting amongst the leaves at Withdean Park'
 author: Jane Dallaway
 date: 2012-11-17
+---
 
 <div>
 <a href="/media/Qphoto.JPG">
