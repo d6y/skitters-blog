@@ -2,7 +2,7 @@
 title: New year, new mud
 author: Richard Dallaway
 date: 2015-01-03 14:35
+layout: post
 ---
 
-<div><a href="/media/tp_IMG_20150103_143248.jpg"><img src="/media/tp_thumb_IMG_20150103_143248.jpg" width="500" height="667"/></a></div>
-
+<a href="/media/tp_IMG_20150103_143248.jpg"><img src="/media/tp_thumb_IMG_20150103_143248.jpg" width="500" height="667"/></a>
