@@ -1,5 +1,6 @@
 ---
-title: "What's a dog for?" you ask. Book stand obviously!
+title: |
+  "What's a dog for?" you ask. Book stand obviously!
 author: Jane Dallaway
 date: 2015-06-25 19:21
 layout: post
@@ -10,9 +11,8 @@ comments: true
 
 
 
-  
 
 
 
 
-      
+
