@@ -1,0 +1,14 @@
+---
+title: |
+  Annoying Lottie by getting cuddles from her human
+author: Richard Dallaway
+date: 2015-12-26 21:12
+layout: post
+comments: true
+---
+
+<div><a href="/media/tp__20151226_211138.JPG"><img src="/media/tp_thumb__20151226_211138.JPG" width="500" height="889"/></a></div>
+
+
+  
+      
