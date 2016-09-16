@@ -9,6 +9,5 @@ comments: true
 
 <div><a href="/media/tp_27697741641_c92e183cd4_o.jpg"><img src="/media/tp_thumb_27697741641_c92e183cd4_o.jpg" width="500" height="889"/></a></div>
 
-[image: 27697741641_c92e183cd4_o.jpg]
   
       

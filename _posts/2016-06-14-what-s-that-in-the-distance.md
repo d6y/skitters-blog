@@ -9,6 +9,5 @@ comments: true
 
 <div><a href="/media/tp_2016-06-14_16_57_10.jpg"><img src="/media/tp_thumb_2016-06-14_16_57_10.jpg" width="500" height="889"/></a></div>
 
-[image: 2016-06-14 16.57.10.jpg]
   
       
