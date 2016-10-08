@@ -6,4 +6,4 @@ layout: post
 comments: true
 ---
 
-<a href="/media/tp_IMG_20150103_143248.jpg"><img src="/media/tp_thumb_IMG_20150103_143248.jpg" width="500" height="667"/></a>
+<a href="http://static.skitters.dallaway.com/tp_IMG_20150103_143248.jpg"><img src="http://static.skitters.dallaway.com/tp_thumb_IMG_20150103_143248.jpg" width="500" height="667"/></a>

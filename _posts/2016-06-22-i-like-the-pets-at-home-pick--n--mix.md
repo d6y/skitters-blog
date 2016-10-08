@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 
-<div><a href="/media/tp_27697741641_c92e183cd4_o.jpg"><img src="/media/tp_thumb_27697741641_c92e183cd4_o.jpg" width="500" height="889"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/tp_27697741641_c92e183cd4_o.jpg"><img src="http://static.skitters.dallaway.com/tp_thumb_27697741641_c92e183cd4_o.jpg" width="500" height="889"/></a></div>
 
   
       

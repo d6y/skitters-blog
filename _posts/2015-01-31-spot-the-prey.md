@@ -6,7 +6,7 @@ layout: post
 comments: true
 ---
 
-<div><a href="/media/tp_2015-01-30_17_27_24.jpg"><img src="/media/tp_thumb_2015-01-30_17_27_24.jpg" width="500" height="667"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/tp_2015-01-30_17_27_24.jpg"><img src="http://static.skitters.dallaway.com/tp_thumb_2015-01-30_17_27_24.jpg" width="500" height="667"/></a></div>
 
 I've been after this little buddy for a while.  Maybe tomorrow.
   

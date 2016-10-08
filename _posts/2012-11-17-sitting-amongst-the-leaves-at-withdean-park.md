@@ -8,8 +8,8 @@ date: 2012-11-17
 ---
 
 <div>
-<a href="/media/Qphoto.JPG">
-<img width="500" src="/media/Qphoto.JPG.500.JPG" height="500"></img>
+<a href="http://static.skitters.dallaway.com/Qphoto.JPG">
+<img width="500" src="http://static.skitters.dallaway.com/Qphoto.JPG.500.JPG" height="500"></img>
 </a>
 </div>
 

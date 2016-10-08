@@ -6,7 +6,7 @@ layout: post
 comments: true
 ---
 
-<div><a href="/media/tp_2015-04-12_15_27_24.jpg"><img src="/media/tp_thumb_2015-04-12_15_27_24.jpg" width="500" height="375"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/tp_2015-04-12_15_27_24.jpg"><img src="http://static.skitters.dallaway.com/tp_thumb_2015-04-12_15_27_24.jpg" width="500" height="375"/></a></div>
 
 
   

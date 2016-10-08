@@ -7,7 +7,7 @@ author: Jane Dallaway
 date: 2013-12-03 15:51
 ---
 
-<div><a href="/media/Etp_photo.JPG"><img src="/media/Etp_thumb_photo.JPG" width="500" height="669"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/Etp_photo.JPG"><img src="http://static.skitters.dallaway.com/Etp_thumb_photo.JPG" width="500" height="669"/></a></div>
 
 By day appropriate I mean that I had two the other day when I was given it :-)
 

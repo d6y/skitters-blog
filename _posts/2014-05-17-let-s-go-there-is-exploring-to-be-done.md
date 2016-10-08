@@ -7,7 +7,7 @@ author: Jane Dallaway
 date: 2014-05-17 19:06
 ---
 
-<div><a href="/media/tp_IMG_20140517_140924.jpg"><img src="/media/tp_thumb_IMG_20140517_140924.jpg" width="500" height="667"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/tp_IMG_20140517_140924.jpg"><img src="http://static.skitters.dallaway.com/tp_thumb_IMG_20140517_140924.jpg" width="500" height="667"/></a></div>
 
 
   

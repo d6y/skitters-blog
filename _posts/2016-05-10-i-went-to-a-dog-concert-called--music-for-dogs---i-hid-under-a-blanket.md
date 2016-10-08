@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 
-<div><a href="/media/tp_IMG_8484.JPG"><img src="/media/tp_thumb_IMG_8484.JPG" width="500" height="375"/></a></div><div><a href="/media/tp_IMG_8506.JPG"><img src="/media/tp_thumb_IMG_8506.JPG" width="500" height="375"/></a></div><div><a href="/media/SMtp_FullSizeRender.jpg"><img src="/media/SMtp_thumb_FullSizeRender.jpg" width="500" height="375"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/tp_IMG_8484.JPG"><img src="http://static.skitters.dallaway.com/tp_thumb_IMG_8484.JPG" width="500" height="375"/></a></div><div><a href="http://static.skitters.dallaway.com/tp_IMG_8506.JPG"><img src="http://static.skitters.dallaway.com/tp_thumb_IMG_8506.JPG" width="500" height="375"/></a></div><div><a href="http://static.skitters.dallaway.com/SMtp_FullSizeRender.jpg"><img src="http://static.skitters.dallaway.com/SMtp_thumb_FullSizeRender.jpg" width="500" height="375"/></a></div>
 
 
 

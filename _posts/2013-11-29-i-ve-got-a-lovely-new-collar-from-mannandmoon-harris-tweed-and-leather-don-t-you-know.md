@@ -7,7 +7,7 @@ author: Jane Dallaway
 date: 2013-11-29 13:20
 ---
 
-<div><a href="/media/Atp_photo.JPG"><img src="/media/Atp_thumb_photo.JPG" width="500" height="702"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/Atp_photo.JPG"><img src="http://static.skitters.dallaway.com/Atp_thumb_photo.JPG" width="500" height="702"/></a></div>
 
 
 

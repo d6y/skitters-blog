@@ -7,7 +7,7 @@ author: Jane Dallaway
 date: 2013-07-27
 ---
 
-<div><a href="/media/Mphoto_1.JPG"><img src="/media/Mphoto_1.JPG.500.JPG" width="500" height="669"/></a></div><div><a href="/media/Xphoto_2.JPG"><img src="/media/Xphoto_2.JPG.500.JPG" width="500" height="669"/></a></div><div><a href="/media/Cphoto_3.JPG"><img src="/media/Cphoto_3.JPG.500.JPG" width="500" height="669"/></a></div><div><a href="/media/photo_4.JPG"><img src="/media/photo_4.JPG.500.JPG" width="500" height="669"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/Mphoto_1.JPG"><img src="http://static.skitters.dallaway.com/Mphoto_1.JPG.500.JPG" width="500" height="669"/></a></div><div><a href="http://static.skitters.dallaway.com/Xphoto_2.JPG"><img src="http://static.skitters.dallaway.com/Xphoto_2.JPG.500.JPG" width="500" height="669"/></a></div><div><a href="http://static.skitters.dallaway.com/Cphoto_3.JPG"><img src="http://static.skitters.dallaway.com/Cphoto_3.JPG.500.JPG" width="500" height="669"/></a></div><div><a href="http://static.skitters.dallaway.com/photo_4.JPG"><img src="http://static.skitters.dallaway.com/photo_4.JPG.500.JPG" width="500" height="669"/></a></div>
 
 This is a new thing!
 

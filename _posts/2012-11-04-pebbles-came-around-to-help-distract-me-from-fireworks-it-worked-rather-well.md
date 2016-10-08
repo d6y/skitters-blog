@@ -8,8 +8,8 @@ date: 2012-11-04
 ---
 
 <div>
-<a href="/media/JXphoto.JPG">
-<img width="500" src="/media/JXphoto.JPG.500.JPG" height="670"></img>
+<a href="http://static.skitters.dallaway.com/JXphoto.JPG">
+<img width="500" src="http://static.skitters.dallaway.com/JXphoto.JPG.500.JPG" height="670"></img>
 </a>
 </div>
     

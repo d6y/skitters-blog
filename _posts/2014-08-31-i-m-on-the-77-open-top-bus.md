@@ -7,7 +7,7 @@ author: Jane Dallaway
 date: 2014-08-31 14:09
 ---
 
-<div><a href="/media/tp_IMG_20140831_140852.JPG"><img src="/media/tp_thumb_IMG_20140831_140852.JPG" width="500" height="667"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/tp_IMG_20140831_140852.JPG"><img src="http://static.skitters.dallaway.com/tp_thumb_IMG_20140831_140852.JPG" width="500" height="667"/></a></div>
 
 
 And there's video too:

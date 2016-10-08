@@ -8,7 +8,7 @@ date: 2012-09-22
 ---
 
 <div>
-<a href="/media/Iphoto.JPG">
-<img width="374" src="/media/Iphoto.JPG.500.JPG" height="500"></img>
+<a href="http://static.skitters.dallaway.com/Iphoto.JPG">
+<img width="374" src="http://static.skitters.dallaway.com/Iphoto.JPG.500.JPG" height="500"></img>
 </a>
 </div>

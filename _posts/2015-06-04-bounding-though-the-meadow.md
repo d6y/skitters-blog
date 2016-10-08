@@ -6,7 +6,7 @@ layout: post
 comments: true
 ---
 
-<div><a href="/media/ENtp_FullSizeRender.jpg"><img src="/media/ENtp_thumb_FullSizeRender.jpg" width="500" height="375"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/ENtp_FullSizeRender.jpg"><img src="http://static.skitters.dallaway.com/ENtp_thumb_FullSizeRender.jpg" width="500" height="375"/></a></div>
 
 
 

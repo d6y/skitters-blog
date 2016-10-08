@@ -7,7 +7,7 @@ author: Jane Dallaway
 date: 2014-01-06 11:36
 ---
 
-<div><a href="/media/EUtp_photo.JPG"><img src="/media/EUtp_thumb_photo.JPG" width="500" height="373"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/EUtp_photo.JPG"><img src="http://static.skitters.dallaway.com/EUtp_thumb_photo.JPG" width="500" height="373"/></a></div>
 
 
       

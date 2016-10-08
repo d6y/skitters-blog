@@ -7,7 +7,7 @@ author: Richard Dallaway
 date: 2013-06-19
 ---
 
-<div><a href="/media/IMG_20130619_203635.JPG"><img src="/media/IMG_20130619_203635.JPG.500.JPG" width="500" height="465"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/IMG_20130619_203635.JPG"><img src="http://static.skitters.dallaway.com/IMG_20130619_203635.JPG.500.JPG" width="500" height="465"/></a></div>
 
 
   

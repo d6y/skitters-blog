@@ -6,7 +6,7 @@ layout: post
 comments: true
 ---
 
-<div><a href="/media/Atp_FullSizeRender.jpg"><img src="/media/Atp_thumb_FullSizeRender.jpg" width="500" height="375"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/Atp_FullSizeRender.jpg"><img src="http://static.skitters.dallaway.com/Atp_thumb_FullSizeRender.jpg" width="500" height="375"/></a></div>
 
 
 

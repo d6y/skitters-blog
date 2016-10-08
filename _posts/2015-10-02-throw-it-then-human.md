@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 
-<div><a href="/media/GQtp_FullSizeRender.jpg"><img src="/media/GQtp_thumb_FullSizeRender.jpg" width="500" height="375"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/GQtp_FullSizeRender.jpg"><img src="http://static.skitters.dallaway.com/GQtp_thumb_FullSizeRender.jpg" width="500" height="375"/></a></div>
 
 
 

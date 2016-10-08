@@ -7,7 +7,7 @@ author: Richard Dallaway
 date: 2013-06-14
 ---
 
-<div><a href="/media/poppy.jpg"><img src="/media/poppy.jpg.500.jpg" width="500" height="375"/></a></div>
+<div><a href="http://static.skitters.dallaway.com/poppy.jpg"><img src="http://static.skitters.dallaway.com/poppy.jpg.500.jpg" width="500" height="375"/></a></div>
 
 
   
