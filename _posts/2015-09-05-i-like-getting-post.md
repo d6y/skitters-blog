@@ -2,6 +2,7 @@
 title: |
   I like getting post!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-09-05 12:07
 layout: post
 comments: true

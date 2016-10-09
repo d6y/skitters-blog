@@ -2,6 +2,7 @@
 title: |
   On the beach at Ferring
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-10-17 20:53
 layout: post
 comments: true

@@ -1,6 +1,7 @@
 ---
 title: Coming to get you little furry friends...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-05-02 14:19
 layout: post
 comments: true

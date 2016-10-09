@@ -2,6 +2,7 @@
 title: |
   Leaving the teenage human in the sea
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-07-16 19:39
 layout: post
 comments: true

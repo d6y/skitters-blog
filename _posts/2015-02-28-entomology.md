@@ -1,6 +1,7 @@
 ---
 title: Terrier Entomology
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-02-28 16:23
 layout: post
 comments: true

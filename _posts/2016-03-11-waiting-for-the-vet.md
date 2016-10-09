@@ -2,6 +2,7 @@
 title: |
   Waiting for the vet
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-03-11 16:41
 layout: post
 comments: true

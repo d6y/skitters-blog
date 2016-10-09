@@ -2,6 +2,7 @@
 title: |
   Being looked down on with my female human
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-01-24 16:23
 layout: post
 comments: true

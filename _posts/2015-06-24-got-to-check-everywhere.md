@@ -1,6 +1,7 @@
 ---
 title: Got to check everywhere
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-06-24 20:35
 layout: post
 comments: true

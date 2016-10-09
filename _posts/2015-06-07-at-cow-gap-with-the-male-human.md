@@ -1,6 +1,7 @@
 ---
 title: At Cow Gap with the male human
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-07 18:47
 layout: post
 comments: true

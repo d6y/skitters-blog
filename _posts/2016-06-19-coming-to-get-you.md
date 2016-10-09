@@ -2,6 +2,7 @@
 title: |
   Coming to get you...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-06-19 17:12
 layout: post
 comments: true

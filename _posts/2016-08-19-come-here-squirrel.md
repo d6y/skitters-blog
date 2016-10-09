@@ -2,6 +2,7 @@
 title: |
   Come here squirrel!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-19 22:22
 layout: post
 comments: true

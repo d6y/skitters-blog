@@ -2,6 +2,7 @@
 title: |
   There's a peacock over there
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-09-07 15:52
 layout: post
 comments: true

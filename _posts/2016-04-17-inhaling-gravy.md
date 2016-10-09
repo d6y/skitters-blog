@@ -2,6 +2,7 @@
 title: |
   Inhaling gravy
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-04-17 20:07
 layout: post
 comments: true

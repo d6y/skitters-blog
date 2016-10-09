@@ -1,6 +1,7 @@
 ---
 title: Trying out the new water bottle
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-01 08:11
 layout: post
 comments: true

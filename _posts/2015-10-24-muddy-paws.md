@@ -2,6 +2,7 @@
 title: |
   Muddy paws!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-10-24 17:10
 layout: post
 comments: true

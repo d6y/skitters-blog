@@ -2,6 +2,7 @@
 title: |
   My male human has been teaching me to climb trees. He didn't realise I could climb quite so well!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-09-12 11:44
 layout: post
 comments: true

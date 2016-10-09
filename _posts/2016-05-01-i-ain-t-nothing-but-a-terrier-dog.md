@@ -2,6 +2,7 @@
 title: |
   "I ain't nothing but a terrier dog"
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-05-01 14:53
 layout: post
 comments: true

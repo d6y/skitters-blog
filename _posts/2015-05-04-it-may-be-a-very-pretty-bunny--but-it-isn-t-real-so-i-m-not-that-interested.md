@@ -1,6 +1,7 @@
 ---
 title: It may be a very pretty bunny. But it isn't real so I'm not that interested
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-05-04 11:56
 layout: post
 comments: true

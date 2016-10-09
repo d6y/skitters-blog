@@ -1,6 +1,7 @@
 ---
 title: Not a bad view!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-24 18:43
 layout: post
 comments: true

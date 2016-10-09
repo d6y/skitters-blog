@@ -2,6 +2,7 @@
 title: |
   In the walled garden
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-07-25 14:45
 layout: post
 comments: true

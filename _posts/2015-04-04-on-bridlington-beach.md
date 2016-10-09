@@ -1,6 +1,7 @@
 ---
 title: On Bridlington beach
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-04 18:15
 layout: post
 comments: true

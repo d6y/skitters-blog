@@ -2,6 +2,7 @@
 title: |
   It's a dog's life
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-09-06 14:01
 layout: post
 comments: true

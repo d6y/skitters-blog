@@ -2,6 +2,7 @@
 title: |
   Low tide ball play
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-04-08 20:31
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   Good morning
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-07-31 10:26
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   Ok. Even I think the morning is beautiful. Now throw the ball...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-01-21 08:14
 layout: post
 comments: true

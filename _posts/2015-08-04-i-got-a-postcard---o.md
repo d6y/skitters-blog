@@ -2,6 +2,7 @@
 title: |
   I got a postcard! \o/
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-08-04 17:55
 layout: post
 comments: true

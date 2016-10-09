@@ -2,6 +2,7 @@
 title: |
   How's your day been?
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-06-30 19:59
 layout: post
 comments: true

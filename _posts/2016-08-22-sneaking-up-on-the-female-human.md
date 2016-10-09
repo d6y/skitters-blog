@@ -2,6 +2,7 @@
 title: |
   Sneaking up on the female human
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-22 21:21
 layout: post
 comments: true

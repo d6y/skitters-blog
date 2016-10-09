@@ -2,6 +2,7 @@
 title: |
   Having a bath is exhausting
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-05-29 16:38
 layout: post
 comments: true

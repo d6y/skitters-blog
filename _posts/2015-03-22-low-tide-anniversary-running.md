@@ -1,6 +1,7 @@
 ---
 title: Low tide anniversary running
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-03-22 19:22
 layout: post
 comments: true

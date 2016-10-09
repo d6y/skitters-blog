@@ -1,6 +1,7 @@
 ---
 title: Perching on a sunny spot
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-03-01 11:58
 layout: post
 comments: true

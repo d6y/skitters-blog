@@ -2,6 +2,7 @@
 title: |
   By the river Rother
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-07-30 15:04
 layout: post
 comments: true

@@ -1,6 +1,7 @@
 ---
 title: Chillin' with the male human
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-24 17:30
 layout: post
 comments: true

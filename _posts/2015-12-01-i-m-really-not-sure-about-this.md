@@ -2,6 +2,7 @@
 title: |
   I'm really not sure about this...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-12-01 08:27
 layout: post
 comments: true

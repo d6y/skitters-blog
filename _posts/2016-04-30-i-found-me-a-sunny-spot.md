@@ -2,6 +2,7 @@
 title: |
   I found me a sunny spot
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-04-30 19:56
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   Paddle: tentatively accepted
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-03-16 14:56
 layout: post
 comments: true

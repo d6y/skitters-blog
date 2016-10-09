@@ -2,6 +2,7 @@
 title: |
   I like the Pets at Home pick 'n' mix
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-06-22 22:28
 layout: post
 comments: true

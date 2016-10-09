@@ -1,6 +1,7 @@
 ---
 title: Bounding though the meadow
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-04 22:25
 layout: post
 comments: true

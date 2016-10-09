@@ -2,6 +2,7 @@
 title: |
   I'm on a tree with a great shaped trunk
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-09-11 08:48
 layout: post
 comments: true

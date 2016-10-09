@@ -2,6 +2,7 @@
 title: |
   You call it laptop, I call it snout rest
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-11-18 08:51
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   Out adventuring
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-10-02 16:38
 layout: post
 comments: true

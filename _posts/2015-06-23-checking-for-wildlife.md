@@ -1,6 +1,7 @@
 ---
 title: Checking for wildlife
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-23 19:01
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   When I meet a boy dog, I like to play it cool...
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-04-29 08:32
 layout: post
 comments: true

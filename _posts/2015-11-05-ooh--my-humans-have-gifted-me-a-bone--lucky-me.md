@@ -2,6 +2,7 @@
 title: |
   Ooh! My humans have gifted me a bone. Lucky me!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-11-05 18:20
 layout: post
 comments: true

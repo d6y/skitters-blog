@@ -2,6 +2,7 @@
 title: |
   Climbing a tree. Again
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-21 17:11
 layout: post
 comments: true

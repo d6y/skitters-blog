@@ -3,6 +3,7 @@ title: |
   Munching grass
   
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-09-27 21:19
 layout: post
 comments: true

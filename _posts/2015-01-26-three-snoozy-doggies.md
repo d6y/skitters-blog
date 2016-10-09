@@ -1,6 +1,7 @@
 ---
 title: Three snoozy doggies...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-01-26 20:41
 layout: post
 comments: true

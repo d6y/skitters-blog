@@ -2,6 +2,7 @@
 title: |
   Got me a visitor
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-09-12 17:49
 layout: post
 comments: true

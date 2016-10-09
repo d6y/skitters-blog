@@ -2,6 +2,7 @@
 title: |
   Between showers, time for a dip
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-06-23 16:26
 layout: post
 comments: true

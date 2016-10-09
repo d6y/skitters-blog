@@ -1,6 +1,7 @@
 ---
 title: Walking with the male human at Barcombe Mills
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-05-13 06:22
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   In the park, I see something over there
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-06-09 07:12
 layout: post
 comments: true

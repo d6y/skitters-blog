@@ -1,6 +1,7 @@
 ---
 title: Guys... This is so undignified..
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-02-28 16:45
 layout: post
 comments: true

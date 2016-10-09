@@ -2,6 +2,7 @@
 title: |
   Resting in my room at the Fisherman's Haunt
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-07 10:10
 layout: post
 comments: true

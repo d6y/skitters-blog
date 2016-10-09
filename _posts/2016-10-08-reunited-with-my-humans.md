@@ -2,6 +2,7 @@
 title: |
   Reunited with my humans
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-10-08 18:14
 layout: post
 comments: true

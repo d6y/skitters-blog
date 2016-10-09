@@ -2,6 +2,7 @@
 title: |
   Storms? What storms?
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-12-06 16:13
 layout: post
 comments: true

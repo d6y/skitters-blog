@@ -2,6 +2,7 @@
 title: |
   The beach is returning to my domain
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-09-16 20:08
 layout: post
 comments: true

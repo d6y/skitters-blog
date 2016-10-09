@@ -2,6 +2,7 @@
 title: |
   Sheltering...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-01-17 16:16
 layout: post
 comments: true

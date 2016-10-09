@@ -1,6 +1,7 @@
 ---
 title: Dog Food Packaging I Have Known
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-02-25 19:23
 layout: post
 comments: true

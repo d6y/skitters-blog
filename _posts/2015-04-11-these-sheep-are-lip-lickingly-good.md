@@ -1,6 +1,7 @@
 ---
 title: These sheep are lip-lickingly good!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-11 20:43
 layout: post
 comments: true

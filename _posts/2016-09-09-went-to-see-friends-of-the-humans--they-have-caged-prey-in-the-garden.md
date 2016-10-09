@@ -2,6 +2,7 @@
 title: |
   Went to see friends of the humans. They have caged prey in the garden
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-09-09 22:11
 layout: post
 comments: true

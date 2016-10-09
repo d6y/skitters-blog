@@ -1,6 +1,7 @@
 ---
 title: I've been needle felted. It didn't hurt
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-05-03 10:39
 layout: post
 comments: true

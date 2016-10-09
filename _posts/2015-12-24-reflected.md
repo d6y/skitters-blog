@@ -2,6 +2,7 @@
 title: |
   Reflected
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-12-24 21:48
 layout: post
 comments: true

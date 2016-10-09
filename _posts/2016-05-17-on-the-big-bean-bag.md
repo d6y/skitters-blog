@@ -2,6 +2,7 @@
 title: |
   On the big bean bag
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-05-17 22:30
 layout: post
 comments: true

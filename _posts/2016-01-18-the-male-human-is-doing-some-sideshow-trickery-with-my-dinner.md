@@ -2,6 +2,7 @@
 title: |
   The male human is doing some sideshow trickery with my dinner
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-01-18 19:55
 layout: post
 comments: true

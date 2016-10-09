@@ -2,6 +2,7 @@
 title: |
   Early morning sunshine
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-10-09 12:10
 layout: post
 comments: true

@@ -1,6 +1,7 @@
 ---
 title: Resting my head on the female human's leg while the male human reads
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-25 15:51
 layout: post
 comments: true

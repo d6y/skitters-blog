@@ -1,6 +1,7 @@
 ---
 title: First park lunch of the season
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-14 21:04
 layout: post
 comments: true

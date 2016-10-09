@@ -2,6 +2,7 @@
 title: |
   At Devil's Dyke
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-09-24 10:50
 layout: post
 comments: true

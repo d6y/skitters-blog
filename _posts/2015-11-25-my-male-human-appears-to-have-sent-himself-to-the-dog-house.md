@@ -2,6 +2,7 @@
 title: |
   My male human appears to have sent himself to the dog house...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-11-25 19:36
 layout: post
 comments: true

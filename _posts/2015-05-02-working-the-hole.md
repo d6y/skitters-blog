@@ -1,6 +1,7 @@
 ---
 title: Working the hole
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-05-02 14:29
 layout: post
 comments: true

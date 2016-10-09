@@ -2,6 +2,7 @@
 title: |
   Annoying Lottie by getting cuddles from her human
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-12-26 21:12
 layout: post
 comments: true

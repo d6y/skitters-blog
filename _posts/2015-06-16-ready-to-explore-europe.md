@@ -1,6 +1,7 @@
 ---
 title: Ready to explore Europe
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-06-16 17:22
 layout: post
 comments: true

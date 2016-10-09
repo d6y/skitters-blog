@@ -2,6 +2,7 @@
 title: |
   Ignoring the large plastic duck that my humans tried to relaunch
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-12-30 16:08
 layout: post
 comments: true

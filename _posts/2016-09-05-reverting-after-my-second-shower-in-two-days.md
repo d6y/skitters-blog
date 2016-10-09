@@ -2,6 +2,7 @@
 title: |
   Reverting after my second shower in two days...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-09-05 22:19
 layout: post
 comments: true

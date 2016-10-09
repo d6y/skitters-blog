@@ -2,6 +2,7 @@
 title: |
   Shattered after a lot of sea swimming
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-07-18 21:25
 layout: post
 comments: true

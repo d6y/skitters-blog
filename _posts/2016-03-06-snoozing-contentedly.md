@@ -2,6 +2,7 @@
 title: |
   Snoozing contentedly
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-03-06 20:11
 layout: post
 comments: true

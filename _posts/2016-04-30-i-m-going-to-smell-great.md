@@ -2,6 +2,7 @@
 title: |
   I'm going to smell great...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-04-30 19:55
 layout: post
 comments: true

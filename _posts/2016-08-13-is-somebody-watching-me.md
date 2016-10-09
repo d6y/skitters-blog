@@ -2,6 +2,7 @@
 title: |
   Is somebody watching me?
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-13 16:58
 layout: post
 comments: true

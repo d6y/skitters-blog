@@ -2,6 +2,7 @@
 title: |
   Ferring Rife with Tigger
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-01-31 16:13
 layout: post
 comments: true

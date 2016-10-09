@@ -2,6 +2,7 @@
 title: |
   Early evening beach fun
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-04-07 21:41
 layout: post
 comments: true

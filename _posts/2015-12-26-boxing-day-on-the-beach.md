@@ -2,6 +2,7 @@
 title: |
   Boxing day on the beach
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-12-26 21:10
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   What is this Furby thing?
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-13 17:47
 layout: post
 comments: true

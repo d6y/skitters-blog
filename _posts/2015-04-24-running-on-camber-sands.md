@@ -1,6 +1,7 @@
 ---
 title: Running on Camber Sands
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-24 20:51
 layout: post
 comments: true

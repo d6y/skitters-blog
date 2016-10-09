@@ -1,6 +1,7 @@
 ---
 title: There is definitely something under here worth getting at
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-10 18:48
 layout: post
 comments: true

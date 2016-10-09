@@ -2,6 +2,7 @@
 title: |
   Relaxing at home
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-01-13 20:04
 layout: post
 comments: true

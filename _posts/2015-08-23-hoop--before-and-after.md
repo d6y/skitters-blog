@@ -2,6 +2,7 @@
 title: |
   Hoop! Before and after
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-08-23 09:53
 layout: post
 comments: true

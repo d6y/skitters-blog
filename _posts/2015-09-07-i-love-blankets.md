@@ -2,6 +2,7 @@
 title: |
   I love blankets
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-09-07 10:38
 layout: post
 comments: true

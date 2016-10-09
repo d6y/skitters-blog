@@ -1,6 +1,7 @@
 ---
 title: Outtamyway
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-04-12 18:33
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   Evening lowish tide
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-10-17 23:44
 layout: post
 comments: true

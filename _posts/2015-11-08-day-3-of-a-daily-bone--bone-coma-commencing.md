@@ -2,6 +2,7 @@
 title: |
   Day 3 of a daily bone. Bone coma commencing
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-11-08 12:26
 layout: post
 comments: true

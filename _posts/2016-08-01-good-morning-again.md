@@ -2,6 +2,7 @@
 title: |
   Good Morning again
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-08-01 09:02
 layout: post
 comments: true

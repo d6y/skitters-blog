@@ -2,6 +2,7 @@
 title: |
   Are you chopping anything I can help with?
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-10-11 18:16
 layout: post
 comments: true

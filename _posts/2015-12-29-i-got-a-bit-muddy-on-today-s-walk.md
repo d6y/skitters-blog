@@ -2,6 +2,7 @@
 title: |
   I got a bit muddy on today's walk...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-12-29 14:31
 layout: post
 comments: true

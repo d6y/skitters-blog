@@ -1,6 +1,7 @@
 ---
 title: Pretending to be recycled paper...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-01-16 21:10
 layout: post
 comments: true

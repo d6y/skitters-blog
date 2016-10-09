@@ -2,6 +2,7 @@
 title: |
   No rest for me. I'm on patrol duty
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-06-26 17:48
 layout: post
 comments: true

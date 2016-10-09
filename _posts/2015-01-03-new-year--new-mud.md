@@ -1,6 +1,7 @@
 ---
 title: New year, new mud
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-01-03 14:35
 layout: post
 comments: true

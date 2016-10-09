@@ -2,6 +2,7 @@
 title: |
   On my marks
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-02-13 17:50
 layout: post
 comments: true

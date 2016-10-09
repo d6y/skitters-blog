@@ -1,6 +1,7 @@
 ---
 title: In a hotel with the humans
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-03 20:40
 layout: post
 comments: true

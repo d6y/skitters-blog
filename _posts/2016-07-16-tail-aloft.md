@@ -2,6 +2,7 @@
 title: |
   Tail aloft
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-07-16 20:17
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   Went out for dinner... I slept
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-07-01 22:06
 layout: post
 comments: true

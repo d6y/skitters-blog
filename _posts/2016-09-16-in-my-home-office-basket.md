@@ -2,6 +2,7 @@
 title: |
   In my home office basket
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-09-16 20:07
 layout: post
 comments: true

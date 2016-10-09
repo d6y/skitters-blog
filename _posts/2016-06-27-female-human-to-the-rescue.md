@@ -2,6 +2,7 @@
 title: |
   Female human to the rescue
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-06-27 16:24
 layout: post
 comments: true

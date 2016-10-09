@@ -2,6 +2,7 @@
 title: |
   7 years ago today I moved to Brighton
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-03-22 08:05
 layout: post
 comments: true

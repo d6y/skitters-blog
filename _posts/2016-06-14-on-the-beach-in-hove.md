@@ -2,6 +2,7 @@
 title: |
   On the beach in Hove
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-06-14 21:25
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   On the beach
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-13 10:24
 layout: post
 comments: true

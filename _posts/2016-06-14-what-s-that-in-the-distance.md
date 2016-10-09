@@ -2,6 +2,7 @@
 title: |
   What's that in the distance?
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-06-14 21:24
 layout: post
 comments: true

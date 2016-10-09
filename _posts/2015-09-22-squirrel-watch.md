@@ -2,6 +2,7 @@
 title: |
   Squirrel watch
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-09-22 22:49
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   Paddling at Ferring
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-09-25 19:05
 layout: post
 comments: true

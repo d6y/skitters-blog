@@ -1,6 +1,7 @@
 ---
 title: On the beach
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-03-14 10:20
 layout: post
 comments: true

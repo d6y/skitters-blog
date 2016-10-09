@@ -1,6 +1,7 @@
 ---
 title: Run Away from the Big Wave
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-03-07 16:18
 layout: post
 comments: true

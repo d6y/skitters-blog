@@ -2,6 +2,7 @@
 title: |
   There's wildlife around here somewhere. I can sense it...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-06-27 19:54
 layout: post
 comments: true

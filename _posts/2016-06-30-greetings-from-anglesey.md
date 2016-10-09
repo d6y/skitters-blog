@@ -2,6 +2,7 @@
 title: |
   Greetings from Anglesey
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-06-30 20:06
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   Throw it then human!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-10-02 19:02
 layout: post
 comments: true

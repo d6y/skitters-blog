@@ -2,6 +2,7 @@
 title: |
   I knotted my tail
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-07 20:10
 layout: post
 comments: true

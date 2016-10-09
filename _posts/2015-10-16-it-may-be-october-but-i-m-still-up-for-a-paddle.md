@@ -2,6 +2,7 @@
 title: |
   It may be October but I'm still up for a paddle
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-10-16 19:12
 layout: post
 comments: true

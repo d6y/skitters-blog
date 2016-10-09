@@ -1,6 +1,7 @@
 ---
 title: Filthy paws? Me? Never!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-05-31 17:48
 layout: post
 comments: true

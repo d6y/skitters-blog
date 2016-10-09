@@ -2,6 +2,7 @@
 title: |
   Traveling in style
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-14 12:18
 layout: post
 comments: true

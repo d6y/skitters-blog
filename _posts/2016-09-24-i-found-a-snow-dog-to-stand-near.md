@@ -2,6 +2,7 @@
 title: |
   I found a snow dog to stand near
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-09-24 12:58
 layout: post
 comments: true

@@ -2,6 +2,7 @@
 title: |
   I'm a mirror dog!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-10-02 19:00
 layout: post
 comments: true

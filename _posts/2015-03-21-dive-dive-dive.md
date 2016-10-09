@@ -1,6 +1,7 @@
 ---
 title: Dive dive dive!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-03-21 14:28
 layout: post
 comments: true

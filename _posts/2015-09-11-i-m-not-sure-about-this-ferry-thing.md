@@ -2,6 +2,7 @@
 title: |
   I'm not sure about this ferry thing!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-09-11 15:41
 layout: post
 comments: true

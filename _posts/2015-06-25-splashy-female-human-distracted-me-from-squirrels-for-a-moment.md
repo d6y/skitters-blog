@@ -1,6 +1,7 @@
 ---
 title: Splashy female human distracted me from squirrels for a moment!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-25 19:20
 layout: post
 comments: true

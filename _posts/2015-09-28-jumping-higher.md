@@ -2,6 +2,7 @@
 title: |
  Jumping Higher
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-09-28 20:07
 layout: post
 comments: true

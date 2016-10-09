@@ -1,6 +1,7 @@
 ---
 title: Hey male human! I'm coming to get you...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-12 16:02
 layout: post
 comments: true

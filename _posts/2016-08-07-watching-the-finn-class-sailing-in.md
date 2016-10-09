@@ -2,6 +2,7 @@
 title: |
   Watching the Finn class sailing in
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-07 14:56
 layout: post
 comments: true

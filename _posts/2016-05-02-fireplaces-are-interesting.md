@@ -2,6 +2,7 @@
 title: |
   Fireplaces are interesting
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2016-05-02 17:27
 layout: post
 comments: true

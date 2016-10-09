@@ -2,6 +2,7 @@
 title: |
   Christmas toy breached!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-12-27 18:20
 layout: post
 comments: true

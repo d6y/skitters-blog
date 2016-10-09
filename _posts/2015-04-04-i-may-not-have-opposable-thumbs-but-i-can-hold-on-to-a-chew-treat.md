@@ -1,6 +1,7 @@
 ---
 title: I may not have opposable thumbs but I can hold on to a chew treat
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-04 20:07
 layout: post
 comments: true

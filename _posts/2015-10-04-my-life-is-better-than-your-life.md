@@ -2,6 +2,7 @@
 title: |
   My life is better than your life
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-10-04 12:02
 layout: post
 comments: true

@@ -1,6 +1,7 @@
 ---
 title: I can smell a bunny. Now how do I get through this fence?
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-03-30 07:17
 layout: post
 comments: true

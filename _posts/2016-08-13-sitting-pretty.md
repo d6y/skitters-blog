@@ -2,6 +2,7 @@
 title: |
   Sitting pretty
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-13 22:46
 layout: post
 comments: true

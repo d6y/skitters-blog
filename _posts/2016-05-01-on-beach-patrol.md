@@ -2,6 +2,7 @@
 title: |
   On beach patrol
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-05-01 07:30
 layout: post
 comments: true

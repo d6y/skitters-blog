@@ -2,6 +2,7 @@
 title: |
   Admiring the view
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-08-27 16:50
 layout: post
 comments: true

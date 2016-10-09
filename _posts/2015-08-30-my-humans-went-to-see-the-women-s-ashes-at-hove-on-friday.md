@@ -2,6 +2,7 @@
 title: |
   My humans went to see the Women's Ashes at Hove on Friday
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-08-30 12:30
 layout: post
 comments: true

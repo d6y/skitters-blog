@@ -1,6 +1,7 @@
 ---
 title: I got sniffed by a horsey
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-06 20:13
 layout: post
 comments: true

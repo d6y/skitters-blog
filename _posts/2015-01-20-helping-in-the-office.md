@@ -1,6 +1,7 @@
 ---
 title: Helping in the office
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-01-20 14:16
 layout: post
 comments: true

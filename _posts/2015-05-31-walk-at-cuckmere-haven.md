@@ -1,6 +1,7 @@
 ---
 title: Walk at Cuckmere Haven
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-05-31 22:23
 layout: post
 comments: true

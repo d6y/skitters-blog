@@ -1,6 +1,7 @@
 ---
 title: I chased some ducks...
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-02-20 08:10
 layout: post
 comments: true

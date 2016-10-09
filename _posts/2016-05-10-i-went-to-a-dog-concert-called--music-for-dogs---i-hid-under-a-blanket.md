@@ -2,6 +2,7 @@
 title: |
   I went to a dog concert called "Music for dogs". I hid under a blanket.
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-05-10 20:50
 layout: post
 comments: true

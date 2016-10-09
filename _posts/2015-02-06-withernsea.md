@@ -1,6 +1,7 @@
 ---
 title: Withernsea
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-02-06 11:07
 layout: post
 comments: true

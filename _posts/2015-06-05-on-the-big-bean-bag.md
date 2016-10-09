@@ -1,6 +1,7 @@
 ---
 title: On the big bean bag
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-06-05 14:06
 layout: post
 comments: true

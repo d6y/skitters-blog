@@ -2,6 +2,7 @@
 title: |
   Treat in ice
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-07-11 17:48
 layout: post
 comments: true

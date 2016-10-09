@@ -1,6 +1,7 @@
 ---
 title: Spot the Prey
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-01-31 21:07
 layout: post
 comments: true

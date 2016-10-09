@@ -1,6 +1,7 @@
 ---
 title: Soooo tired that I'll just curl up on the footpath
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-24 17:47
 layout: post
 comments: true

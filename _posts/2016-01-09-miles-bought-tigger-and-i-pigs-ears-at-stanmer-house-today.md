@@ -2,6 +2,7 @@
 title: |
   Miles bought Tigger and I pigs ears at Stanmer House today
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2016-01-09 18:43
 layout: post
 comments: true

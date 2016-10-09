@@ -1,6 +1,7 @@
 ---
 title: Yeah! Staying in a hotel isn't soooo bad I guess!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-04-03 21:22
 layout: post
 comments: true

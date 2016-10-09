@@ -2,6 +2,7 @@
 title: |
   I have an Xmas gift!
 author: Richard Dallaway
+permalink: /blog/:title
 date: 2015-12-12 12:48
 layout: post
 comments: true

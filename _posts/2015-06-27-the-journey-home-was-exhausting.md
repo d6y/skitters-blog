@@ -1,6 +1,7 @@
 ---
 title: The journey home was exhausting!
 author: Jane Dallaway
+permalink: /blog/:title
 date: 2015-06-27 21:33
 layout: post
 comments: true
