@@ -8,5 +8,5 @@ twitter_username: doggaway
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:title
+permalink: /blog/:year-:month-:day-:title
 
