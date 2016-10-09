@@ -2,7 +2,7 @@
 title: |
   Merry Christmas!
 author: Jane Dallaway
-permalink: /blog/:title
+permalink: /blog/2015-12-25-:title
 date: 2015-12-25 10:44
 layout: post
 comments: true
