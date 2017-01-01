@@ -1,0 +1,13 @@
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@doggaway">
+<meta name="twitter:title" content="{{ page.title }}">
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+  <meta name="twitter:description" content="This web site is mostly pictures of me.">
+{% endif %}
+{% if page.image %}
+  <meta name="twitter:image" content="{{ page.image }}">
+{% else %}
+  <meta name="twitter:image" content="http://skitters.dallaway.com/me.jpg">
+{% endif %}
