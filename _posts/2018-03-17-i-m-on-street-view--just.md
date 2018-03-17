@@ -9,11 +9,10 @@ image: http://static.skitters.dallaway.com/2018-03-17-i-m-on-street-view--just-t
 ---
 
 <div>
-        <a href="http://static.skitters.dallaway.com/2018-03-17-i-m-on-street-view--just-fullsize-1-16_Crown_St_-_Google_Maps_2018-03-17_10-18-33.png">
-          <img src="http://static.skitters.dallaway.com/2018-03-17-i-m-on-street-view--just-thumb-1-16_Crown_St_-_Google_Maps_2018-03-17_10-18-33.png" width="500" height="775"/>
-        </a>
-      </div>
+  <a href="http://static.skitters.dallaway.com/2018-03-17-i-m-on-street-view--just-fullsize-Google_Maps_2018-03-17_10-18-33.png">
+    <img src="http://static.skitters.dallaway.com/2018-03-17-i-m-on-street-view--just-thumb-Google_Maps_2018-03-17_10-18-33.png" width="500" height="775"/>
+  </a>
+</div>
 
-[image: 16 Crown St - Google Maps 2018-03-17 10-18-33.png]
   
       
