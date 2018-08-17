@@ -34,12 +34,5 @@ image: http://static.skitters.dallaway.com/2018-07-22-i-had-a-splashtastic-time-
         </a>
       </div>
 
--- 
-
-Twitter: @janedallaway
-
-Instagram: @janed
-
-Blog: http://jane.dallaway.com
        
       

@@ -18,12 +18,5 @@ image: http://static.skitters.dallaway.com/2018-07-25-my-humans-took-me-to-barco
         </a>
       </div>
 
--- 
-
-Twitter: @janedallaway
-
-Instagram: @janed
-
-Blog: http://jane.dallaway.com
    
       

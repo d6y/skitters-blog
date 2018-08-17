@@ -34,12 +34,5 @@ image: http://static.skitters.dallaway.com/2018-08-02-we-went-to-lancing--my-fem
         </a>
       </div>
 
--- 
-
-Twitter: @janedallaway
-
-Instagram: @janed
-
-Blog: http://jane.dallaway.com
        
       
