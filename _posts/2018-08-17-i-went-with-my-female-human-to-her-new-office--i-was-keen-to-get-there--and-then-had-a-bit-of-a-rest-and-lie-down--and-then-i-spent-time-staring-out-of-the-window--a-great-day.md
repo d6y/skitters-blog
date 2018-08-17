@@ -9,29 +9,26 @@ image: http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-huma
 ---
 
 <div>
-        <a href="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-fullsize-1-IMG_5870.jpg">
-          <img src="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-thumb-1-IMG_5870.jpg" width="500" height="667"/>
-        </a>
-      </div><div>
-        <a href="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-fullsize-2-IMG_5869.jpg">
-          <img src="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-thumb-2-IMG_5869.jpg" width="500" height="375"/>
-        </a>
-      </div><div>
-        <a href="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-fullsize-3-IMG_5868.jpg">
-          <img src="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-thumb-3-IMG_5868.jpg" width="500" height="667"/>
-        </a>
-      </div><div>
-        <a href="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-fullsize-4-IMG_5871.jpg">
-          <img src="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-thumb-4-IMG_5871.jpg" width="500" height="667"/>
-        </a>
-      </div>
+  <a href="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-fullsize-3-IMG_5868.jpg">
+    <img src="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-thumb-3-IMG_5868.jpg" width="500" height="667"/>
+  </a>
+</div>
 
--- 
+<div>
+  <a href="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-fullsize-2-IMG_5869.jpg">
+    <img src="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-thumb-2-IMG_5869.jpg" width="500" height="375"/>
+  </a>
+</div>
 
-Twitter: @janedallaway
+<div>
+  <a href="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-fullsize-1-IMG_5870.jpg">
+    <img src="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-thumb-1-IMG_5870.jpg" width="500" height="667"/>
+  </a>
+</div>
 
-Instagram: @janed
+<div>
+  <a href="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-fullsize-4-IMG_5871.jpg">
+    <img src="http://static.skitters.dallaway.com/2018-08-17-i-went-with-my-female-human-to-her-new-office--i-was-keen-to-get-there--and-then-had-a-bit-of-a-rest-and-lie-down--and-then-i-spent-time-staring-out-of-the-window--a-great-day-thumb-4-IMG_5871.jpg" width="500" height="667"/>
+  </a>
+</div>
 
-Blog: http://jane.dallaway.com
-     
-      
