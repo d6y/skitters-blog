@@ -1,6 +1,6 @@
 ---
 title: |
-  At TFG hackday
+  At GTC hackday
 author: Richard Dallaway
 date: 2018-11-20 18:06
 layout: post
