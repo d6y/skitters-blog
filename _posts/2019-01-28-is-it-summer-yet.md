@@ -10,7 +10,7 @@ image: http://static.skitters.dallaway.com/2019-01-28-is-it-summer-yet-thumb-1-I
 
 <div>
         <a href="http://static.skitters.dallaway.com/2019-01-28-is-it-summer-yet-fullsize-1-IMG_7502.JPG">
-          <img src="http://static.skitters.dallaway.com/2019-01-28-is-it-summer-yet-thumb-1-IMG_7502.JPG" width="375" height="500"/>
+          <img src="http://static.skitters.dallaway.com/2019-01-28-is-it-summer-yet-thumb-1-IMG_7502.JPG" width="462" height="500"/>
         </a>
       </div>
 
