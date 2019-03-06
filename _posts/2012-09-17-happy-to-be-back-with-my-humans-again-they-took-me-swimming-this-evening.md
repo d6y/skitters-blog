@@ -9,7 +9,7 @@ date: 2012-09-17
 
 <div>
 <a href="http://static.skitters.dallaway.com/Rphoto.JPG">
-<img width="500" src="http://static.skitters.dallaway.com/Rphoto.JPG.500.JPG" height="374"></img>
+<img width="500" src="http://static.skitters.dallaway.com/Rphoto.JPG.500.JPG" height="374">
 </a>
 </div>
 

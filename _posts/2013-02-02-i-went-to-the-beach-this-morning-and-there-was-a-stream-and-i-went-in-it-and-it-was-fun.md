@@ -7,7 +7,7 @@ author: Richard Dallaway
 date: 2013-02-02
 ---
 
-<div><a href="http://static.skitters.dallaway.com/IMG_20130202_090120.jpg"><img width="500" src="http://static.skitters.dallaway.com/IMG_20130202_090120.jpg.500.jpg" height="667"></img></a></div>
+<div><a href="http://static.skitters.dallaway.com/IMG_20130202_090120.jpg"><img width="500" src="http://static.skitters.dallaway.com/IMG_20130202_090120.jpg.500.jpg" height="667"></a></div>
 
 
   
