@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts limit:5 %}
+    {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date |  date: "%-d %B %Y"  }}</span>
 
@@ -18,7 +18,11 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p>You can find older posts in the <a href="archive">archive</a>.</p>
+  {% if paginator.next_page_path %}
+  <p><a class="next post-meta" href="{{ paginator.next_page_path }}">Next page</a> of posts</p>
+  {% endif %}
+  
+  <p>Browse all the posts in the <a href="/archive">archive</a>.</p>
 
   <p class="rss-subscribe">Subscribe <a href="{{ "/rss.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
