@@ -14,9 +14,3 @@ image: http://static.skitters.dallaway.com/2020-11-29-i-don-t-care-who-you-ve-go
         </a>
       </div>
 
--- 
-Jane Dallaway
-@janedallaway
-http://jane.dallaway.com
-  
-      
