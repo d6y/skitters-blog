@@ -26,12 +26,3 @@ image: http://static.skitters.dallaway.com/2018-09-04-i-went-to-the-broomhill-sc
         </a>
       </div>
 
--- 
-
-Twitter: @janedallaway
-
-Instagram: @janed
-
-Blog: http://jane.dallaway.com
-     
-      

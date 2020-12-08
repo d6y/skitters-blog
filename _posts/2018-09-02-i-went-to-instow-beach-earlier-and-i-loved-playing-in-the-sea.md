@@ -21,13 +21,3 @@ image: http://static.skitters.dallaway.com/2018-09-02-i-went-to-instow-beach-ear
           <img src="http://static.skitters.dallaway.com/2018-09-02-i-went-to-instow-beach-earlier-and-i-loved-playing-in-the-sea-thumb-3-IMG_6212.jpg" width="500" height="375"/>
         </a>
       </div>
-
--- 
-
-Twitter: @janedallaway
-
-Instagram: @janed
-
-Blog: http://jane.dallaway.com
-    
-      

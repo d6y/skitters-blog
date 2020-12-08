@@ -18,12 +18,3 @@ image: http://static.skitters.dallaway.com/2018-09-08-can-t-get-over-it--better-
         </a>
       </div>
 
--- 
-
-Twitter: @janedallaway
-
-Instagram: @janed
-
-Blog: http://jane.dallaway.com
-   
-      
