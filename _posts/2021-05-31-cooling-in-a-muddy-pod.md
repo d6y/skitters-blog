@@ -1,6 +1,6 @@
 ---
 title: |
-    Cooling in a muddy pod
+    Cooling in a muddy pond
 author: Richard Dallaway
 date: 2021-05-31 12:34
 layout: post
