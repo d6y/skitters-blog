@@ -8,6 +8,5 @@ comments: true
 
 ---
 
-<iframe src="https://player.vimeo.com/video/557160943?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dog in a pond">
-</iframe>
+<iframe src="https://player.vimeo.com/video/557160943" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
