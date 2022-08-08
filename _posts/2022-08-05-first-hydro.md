@@ -2,7 +2,7 @@
 title: |
     My first hydro session
 author: Richard Dallaway
-date: 2022-08-00 13:00
+date: 2022-08-05 13:00
 layout: post
 comments: true
 ---
