@@ -8,8 +8,8 @@ date: 2012-10-19
 ---
 
 <div>
-<a href="http://static.skitters.dallaway.com/Ophoto.JPG">
-<img width="500" src="http://static.skitters.dallaway.com/Ophoto.JPG.500.JPG" height="667">
+<a href="//static.skitters.dallaway.com/Ophoto.JPG">
+<img width="500" src="//static.skitters.dallaway.com/Ophoto.JPG.500.JPG" height="667">
 </a>
 </div>
 

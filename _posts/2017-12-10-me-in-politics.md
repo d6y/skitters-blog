@@ -5,12 +5,12 @@ author: Richard Dallaway
 date: 2017-12-10 16:46
 layout: post
 comments: true
-image: http://static.skitters.dallaway.com/2017-12-10-me-in-politics-thumb-1-me-in-politics.png
+image: //static.skitters.dallaway.com/2017-12-10-me-in-politics-thumb-1-me-in-politics.png
 ---
 
 <div>
   <a href="http://www.bbc.co.uk/news/av/uk-politics-42299922/are-momentum-trying-to-oust-labour-councillors">
-    <img src="http://static.skitters.dallaway.com/2017-12-10-me-in-politics-thumb-1-me-in-politics.png" width="500" height="285"/>
+    <img src="//static.skitters.dallaway.com/2017-12-10-me-in-politics-thumb-1-me-in-politics.png" width="500" height="285"/>
   </a>
 </div>
 

@@ -8,8 +8,8 @@ comments: true
 ---
 
 <div>
-        <a href="http://static.skitters.dallaway.com/2016-11-22-tomb-raider-fullsize-IMG_6666.JPG">
-          <img src="http://static.skitters.dallaway.com/2016-11-22-tomb-raider-thumb-IMG_6666.JPG" width="375" height="500"/>
+        <a href="//static.skitters.dallaway.com/2016-11-22-tomb-raider-fullsize-IMG_6666.JPG">
+          <img src="//static.skitters.dallaway.com/2016-11-22-tomb-raider-thumb-IMG_6666.JPG" width="375" height="500"/>
         </a>
       </div>
 

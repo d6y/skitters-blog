@@ -8,8 +8,8 @@ comments: true
 ---
 
 <div>
-        <a href="http://static.skitters.dallaway.com/2016-11-24-what-are-you-letting-him-do-to-me-fullsize-IMG_6746.JPG">
-          <img src="http://static.skitters.dallaway.com/2016-11-24-what-are-you-letting-him-do-to-me-thumb-IMG_6746.JPG" width="500" height="500"/>
+        <a href="//static.skitters.dallaway.com/2016-11-24-what-are-you-letting-him-do-to-me-fullsize-IMG_6746.JPG">
+          <img src="//static.skitters.dallaway.com/2016-11-24-what-are-you-letting-him-do-to-me-thumb-IMG_6746.JPG" width="500" height="500"/>
         </a>
       </div>
 

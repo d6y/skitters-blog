@@ -5,12 +5,12 @@ author: Jane Dallaway
 date: 2017-11-28 18:03
 layout: post
 comments: true
-image: http://static.skitters.dallaway.com/2017-11-28-bottoms-up-at-devil-s-dyke-thumb-1-IMG-6515.JPG
+image: //static.skitters.dallaway.com/2017-11-28-bottoms-up-at-devil-s-dyke-thumb-1-IMG-6515.JPG
 ---
 
 <div>
-        <a href="http://static.skitters.dallaway.com/2017-11-28-bottoms-up-at-devil-s-dyke-fullsize-1-IMG-6515.JPG">
-          <img src="http://static.skitters.dallaway.com/2017-11-28-bottoms-up-at-devil-s-dyke-thumb-1-IMG-6515.JPG" width="375" height="500"/>
+        <a href="//static.skitters.dallaway.com/2017-11-28-bottoms-up-at-devil-s-dyke-fullsize-1-IMG-6515.JPG">
+          <img src="//static.skitters.dallaway.com/2017-11-28-bottoms-up-at-devil-s-dyke-thumb-1-IMG-6515.JPG" width="375" height="500"/>
         </a>
       </div>
 

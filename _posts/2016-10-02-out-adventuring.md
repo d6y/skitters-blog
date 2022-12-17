@@ -9,8 +9,8 @@ comments: true
 ---
 
 <div>
-        <a href="http://static.skitters.dallaway.com/2016-10-02-out-adventuring-fullsize-IMG_0092.jpg">
-          <img src="http://static.skitters.dallaway.com/2016-10-02-out-adventuring-thumb-IMG_0092.jpg" width="500" height="375"/>
+        <a href="//static.skitters.dallaway.com/2016-10-02-out-adventuring-fullsize-IMG_0092.jpg">
+          <img src="//static.skitters.dallaway.com/2016-10-02-out-adventuring-thumb-IMG_0092.jpg" width="500" height="375"/>
         </a>
       </div>
 

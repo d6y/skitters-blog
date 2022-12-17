@@ -8,8 +8,8 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
      <image>
        <title>{{ site.title | xml_escape }}</title>
-       <link>http://skitters.dallaway.com</link>
-       <url>http://skitters.dallaway.com/me96x96.png</url>
+       <link>https://skitters.dallaway.com</link>
+       <url>https://skitters.dallaway.com/me96x96.png</url>
        <width>96</width><height>96</height>
      </image>
     <link>{{ site.url }}{{ site.baseurl }}/</link>

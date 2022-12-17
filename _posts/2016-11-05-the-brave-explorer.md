@@ -8,8 +8,8 @@ comments: true
 ---
 
 <div>
-        <a href="http://static.skitters.dallaway.com/2016-11-05-the-brave-explorer-fullsize-IMG_5534.JPG">
-          <img src="http://static.skitters.dallaway.com/2016-11-05-the-brave-explorer-thumb-IMG_5534.JPG" width="500" height="500"/>
+        <a href="//static.skitters.dallaway.com/2016-11-05-the-brave-explorer-fullsize-IMG_5534.JPG">
+          <img src="//static.skitters.dallaway.com/2016-11-05-the-brave-explorer-thumb-IMG_5534.JPG" width="500" height="500"/>
         </a>
       </div>
 

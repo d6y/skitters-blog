@@ -5,12 +5,12 @@ author: Jane Dallaway
 date: 2018-04-21 21:28
 layout: post
 comments: true
-image: http://static.skitters.dallaway.com/2018-04-21-with-the-male-human-at-devil-s-dyke-thumb-1-IMG-0820.JPG
+image: //static.skitters.dallaway.com/2018-04-21-with-the-male-human-at-devil-s-dyke-thumb-1-IMG-0820.JPG
 ---
 
 <div>
-        <a href="http://static.skitters.dallaway.com/2018-04-21-with-the-male-human-at-devil-s-dyke-fullsize-1-IMG-0820.JPG">
-          <img src="http://static.skitters.dallaway.com/2018-04-21-with-the-male-human-at-devil-s-dyke-thumb-1-IMG-0820.JPG" width="500" height="667"/>
+        <a href="//static.skitters.dallaway.com/2018-04-21-with-the-male-human-at-devil-s-dyke-fullsize-1-IMG-0820.JPG">
+          <img src="//static.skitters.dallaway.com/2018-04-21-with-the-male-human-at-devil-s-dyke-thumb-1-IMG-0820.JPG" width="500" height="667"/>
         </a>
       </div>
 
