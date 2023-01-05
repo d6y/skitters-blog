@@ -10,7 +10,7 @@ twitter_username: doggaway
 markdown: kramdown
 permalink: /blog/:year-:month-:day-:title/
 
-paginate:    4
+paginate:    6
 paginate_path: "page:num"
 
 plugins: [jekyll-paginate]
