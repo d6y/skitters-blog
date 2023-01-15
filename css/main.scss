@@ -68,3 +68,19 @@ a img {
 .PageNavigation .next {
   text-align: right;
 }
+
+.more-posts {
+    border: 2pt solid whitesmoke;
+    border-radius: 5px;
+    padding: 0.5em;
+    background: blue;
+    font-size: large;
+}
+
+a.more-posts  {
+  color: white;
+}
+
+a:visited.more-posts {
+  color: white;
+}
