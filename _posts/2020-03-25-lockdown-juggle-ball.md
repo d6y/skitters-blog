@@ -8,7 +8,6 @@ comments: true
 
 ---
 
-
-
-<iframe src="https://player.vimeo.com/video/400540190" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      
+<video controls autoplay playsinline>
+    <source src="/video/juggling_mar_2020.mp4" type="video/mp4">
+</video>
