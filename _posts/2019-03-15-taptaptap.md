@@ -7,7 +7,6 @@ layout: post
 comments: true
 ---
 
-<iframe src="https://player.vimeo.com/video/323887092" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<a href="https://vimeo.com/323887092">Tap tap tap on Vimeo</a>
-
+<video controls autoplay playsinline>
+    <source src="/video/tap_tap_tap.mp4" type="video/mp4">
+</video>

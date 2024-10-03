@@ -8,5 +8,6 @@ comments: true
 
 ---
 
-<iframe src="https://player.vimeo.com/video/535290167" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+<video controls autoplay playsinline>
+    <source src="/video/easter_wag.mp4" type="video/mp4">
+</video>

@@ -8,5 +8,6 @@ comments: true
 
 ---
 
-<iframe src="https://player.vimeo.com/video/782134255?h=96cb1e5f6c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+<video controls autoplay playsinline>
+    <source src="/video/dog_on_frozen_pond.mp4" type="video/mp4">
+</video>

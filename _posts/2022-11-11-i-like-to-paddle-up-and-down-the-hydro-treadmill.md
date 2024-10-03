@@ -8,5 +8,6 @@ comments: true
 
 ---
 
-<iframe src="https://player.vimeo.com/video/769900782?h=2a3821a879" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
+<video controls autoplay playsinline>
+    <source src="/video/dog_paddling_in_a_hydrotherapy_tank.mp4" type="video/mp4">
+</video>

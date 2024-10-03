@@ -8,6 +8,6 @@ layout: post
 comments: true
 ---
 
-
-<iframe src="https://player.vimeo.com/video/164678528" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<video controls autoplay playsinline>
+    <source src="/video/a_dog_meeting_another_dog.mp4" type="video/mp4">
+</video>

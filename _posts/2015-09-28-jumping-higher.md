@@ -8,6 +8,7 @@ layout: post
 comments: true
 ---
 
-<iframe src="https://player.vimeo.com/video/140701351" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<video controls autoplay playsinline>
+    <source src="/video/jumping_higher.mp4" type="video/mp4">
+</video>
       

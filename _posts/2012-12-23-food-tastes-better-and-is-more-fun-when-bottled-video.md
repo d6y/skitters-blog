@@ -7,4 +7,6 @@ author: Richard Dallaway
 date: 2012-12-23
 ---
 
-<iframe src="//player.vimeo.com/video/76711958" width="500" height="281" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe>
+<video controls autoplay playsinline>
+    <source src="/video/food_tastes_better_this_way.mp4" type="video/mp4">
+</video>

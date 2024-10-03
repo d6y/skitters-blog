@@ -8,7 +8,6 @@ comments: true
 
 ---
 
-
-
-<iframe src="https://player.vimeo.com/video/367551385" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      
+<video controls autoplay playsinline>
+    <source src="/video/toy_sorting.mp4" type="video/mp4">
+</video>

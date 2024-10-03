@@ -10,4 +10,3 @@ For Christmas 2009 my humans were given a "Pet's eve view camera", which they le
 
 My hobbies include chasing woodland animals, eating, sleeping and sniffing.
 
-Videos of me me me are on my [Vimeo channel](https://vimeo.com/channels/skitters/).
