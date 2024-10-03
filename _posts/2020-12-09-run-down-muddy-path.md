@@ -5,5 +5,7 @@ author: Richard Dallaway
 date: 2020-12-09
 ---
 
-<iframe src="//player.vimeo.com/video/487580902" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+<video controls autoplay playsinline>
+    <source src="/video/dog_runs_down_muddy_path.mp4" type="video/mp4">
+</video>

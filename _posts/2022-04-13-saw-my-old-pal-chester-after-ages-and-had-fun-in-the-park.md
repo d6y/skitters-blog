@@ -8,5 +8,7 @@ comments: true
 
 ---
 
-<iframe src="https://player.vimeo.com/video/699152275?h=4c02536139" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+<video controls autoplay playsinline>
+    <source src="/video/chester.mp4" type="video/mp4">
+</video>

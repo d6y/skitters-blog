@@ -8,7 +8,6 @@ comments: true
 
 ---
 
-
-
-<iframe src="https://player.vimeo.com/video/350034359" width="640" height="1131" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      
+<video controls autoplay playsinline>
+    <source src="/video/boing.mp4" type="video/mp4">
+</video>

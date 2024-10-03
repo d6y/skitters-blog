@@ -7,5 +7,6 @@ author: Richard Dallaway
 date: 2013-07-22
 ---
 
-<iframe src="//player.vimeo.com/video/77292880" width="500" height="375" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe>
-
+<video controls autoplay playsinline>
+    <source src="/video/water_fetch.mp4" type="video/mp4">
+</video>
