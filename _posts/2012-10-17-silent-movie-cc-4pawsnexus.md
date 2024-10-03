@@ -7,4 +7,6 @@ author: Richard Dallaway
 date: 2012-10-17
 ---
 
-<iframe src="//player.vimeo.com/video/76710965" width="500" height="281" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe>
+<video controls autoplay playsinline>
+    <source src="/video/skitters_pebbles.mp4" type="video/mp4">
+</video>

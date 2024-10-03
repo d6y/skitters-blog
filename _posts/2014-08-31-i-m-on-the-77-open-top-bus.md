@@ -12,5 +12,7 @@ date: 2014-08-31 14:09
 
 And there's video too:
 
-<iframe src="//player.vimeo.com/video/104900426" width="500" height="281" frameborder="0" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen"></iframe>
 
+<video controls autoplay playsinline>
+    <source src="/video/77_bus.mp4" type="video/mp4">
+</video>
